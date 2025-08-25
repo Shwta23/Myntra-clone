@@ -27,3 +27,5 @@ myntra-clone/
 ├── /images
 └── /products
 
+![myntra.png](https://github.com/Shwta23/Myntra-clone/blob/main/images/offers/myntra.png)
+
